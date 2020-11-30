@@ -1,5 +1,5 @@
-# tribute
-Freecodecamp's RWD Tribute project
+# Tribute Page
+Freecodecamp's RWD Tribute Page project
 
-Speicifcation
+# Project Speicifcation
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
